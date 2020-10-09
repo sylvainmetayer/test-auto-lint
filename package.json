@@ -1,0 +1,25 @@
+{
+  "name": "test-auto-lint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "lint": "standard",
+    "lint:fix": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylvainmetayer/test-auto-lint.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sylvainmetayer/test-auto-lint/issues"
+  },
+  "homepage": "https://github.com/sylvainmetayer/test-auto-lint#readme",
+  "devDependencies": {
+    "standard": "^14.3.4"
+  }
+}
