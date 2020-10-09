@@ -1,7 +1,7 @@
-    console.log('test auto lint')
+console.log('test auto lint')
 
-let a=3
+let a = 3
 
-a+=2
+a += 2
 
-    console.log( a );
+console.log(a)
