@@ -1,8 +1,6 @@
 console.log('test auto lint')
 
-let a = 3
-
-syntaxErrorThisCannotBeAutoFixed
+let a = 3;
 
 a += 2
 
